@@ -1,5 +1,7 @@
 # :bar_chart: Financial & Sales Performance Analysis (Power BI Project)
 
+ :paperclip: Link to access my dashboard on Maven Analytics: https://lnkd.in/g8vytWMJ
+
 ## Project Overview
 
 This project analyzes a 13-month financial and sales performance dataset covering sales, cost, profit, forecast, product, country, and customer segment data.
