@@ -29,7 +29,7 @@ The company generated **$99.23M in net sales**, with **COGS of $84.97M** and **n
 
 **Key observations**
 
-* The company achieved almost $100M in net sales.
+* The company achieved almost **$100M** in net sales.
 * COGS accounts for a large share of total sales.
 * The overall profit margin is **14.4%**.
 
